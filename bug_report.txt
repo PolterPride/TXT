@@ -1,1 +1,15 @@
-
+  id:1,
+  name:somebug,
+  summary:short information about bug,
+  project:name of project,
+  component:name of component,
+  version:version of application,
+  severity:S5,
+  prioroty:P3,
+  status:new/opened/closed,
+  author:name of qa engineer,
+  assignedTo:name of developer,
+  description:full information about software, steps to reproduce,
+  expectedResult:expected result for all steps,
+  actualResult:actual result for all steps,
+  attachment:additional information about bug
